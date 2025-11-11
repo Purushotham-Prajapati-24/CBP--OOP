@@ -126,14 +126,3 @@ Main
 - Budget tracking and alerts
 - Data visualization and charts
 
-## License
-
-[Add your license information here]
-
-## Author
-
-[Add author information here]
-
-## Support
-
-For issues, questions, or contributions, please [add support/contact information]
